@@ -1,23 +1,22 @@
 ### Hi everybody 👋
-I'm Thieu (Fullname: Nguyen Van Thieu). My interested fields including Artificial Intelligence || Machine Learning || Deep Learning || Optimization || Metaheuristics || Nature-inspired Computing || Fullstack Web Technologies || and always willing to learn and work across new technologies and domains. <br/> <br/>
+I'm Thieu (Fullname: Nguyen Van Thieu). My interested fields including Artificial Intelligence || Machine Learning || Deep Learning || Optimization || Metaheuristics || Nature-inspired Computing || Fullstack Web Technologies || Nature Language Processing || Transfer Learning|| ... <br/> <br/>
 
-
+[![mewe badge](https://img.shields.io/badge/mewe-thieu1995-%23FF0000?style=flat&logo=mewe)](https://mewe.com/i/thieu1995)
+[![glitch badge](https://img.shields.io/badge/facebook-thieu1995-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/thieu1995)
 [![twitter badge](https://img.shields.io/badge/twitter-@nguyenthieu1995-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nguyenthieu1995)
 [![dev.to badge](https://img.shields.io/badge/linkedin-thieu1995-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/thieu1995)
-[![glitch badge](https://img.shields.io/badge/facebook-thieu1995-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/thieu1995)
 [![twitter badge](https://img.shields.io/badge/instagram-@nguyenthieu1995-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nguyenthieu1995)
-[![mewe badge](https://img.shields.io/badge/mewe-thieu1995-%23FF0000?style=flat&logo=mewe)](https://mewe.com/i/thieu1995)
 
-- ⚡️ Technologies: Python and related framework (numpy, pandas, scikit-learn, keras, tensorflow, pytorch), Optimization (Metaheuristics, Swarm Intelligence,...), Matlab, NLP and Transfer Learning, JAVASCRIPT, FLASK, ETC..
+
+- ⚡️ Technologies: Python and related framework (numpy, pandas, scikit-learn, keras, tensorflow, pytorch), Optimization (Metaheuristics, Swarm Intelligence,...), Matlab, NLP and Transfer Learning, Javascript, Flask, Angular 2+, Nodejs, MongoDB, MySql, NoSql, Java Spring, etc...
 - 👨‍💻 All of my projects are available 👉  [here](https://github.com/thieu1995?tab=repositories)
-- 👯 Looking for an internship/opportunity/collaboration.
 - 🌱 My research gate profile: [here](https://www.researchgate.net/profile/Thieu_Nguyen6)
 - ✏️ Google Scholar profile: [here](https://scholar.google.com/citations?user=nsTbdhgAAAAJ&hl=en)
 - 📦 Founder of chasebk group: [here](https://github.com/chasebk)
 - ⚒️ Co-founder of AIIR group: [coding store](https://github.com/ai-independent) and [web](https://ai-independent.github.io/)
+- 👯 Looking for an internship/opportunity/collaboration.
 
-
-I'm also an active open source developer. Check out some of my open-source projects:
+I'm also an active open-source developer. Check out some of my open-source projects:
 - Mealpy: [here](https://github.com/thieu1995/mealpy)
 - Opfunu: [here](https://github.com/thieu1995/opfunu)
 - Permetrics: [here](https://github.com/thieu1995/permetrics)
