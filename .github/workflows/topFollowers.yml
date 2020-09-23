@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '5 * * * *'
+    - cron: '5 10 1 * *'
 
 jobs:
   top-followers:
