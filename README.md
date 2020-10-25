@@ -175,6 +175,13 @@ I'm also an active open-source developer. Check out some of my open-source proje
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/shreya-25">
+        <img src="https://avatars2.githubusercontent.com/u/46867165" width="100px;" alt="shreya-25"/>
+      </a>
+      <br />
+      <a href="https://github.com/shreya-25">shreya agarwal</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/abcnhonxe">
         <img src="https://avatars2.githubusercontent.com/u/7812131" width="100px;" alt="abcnhonxe"/>
       </a>
@@ -210,18 +217,11 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/lscoelho">Leandro Coelho</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bhaskatripathi">
-        <img src="https://avatars2.githubusercontent.com/u/35177508" width="100px;" alt="bhaskatripathi"/>
+      <a href="https://github.com/giangzuzana">
+        <img src="https://avatars2.githubusercontent.com/u/8191974" width="100px;" alt="giangzuzana"/>
       </a>
       <br />
-      <a href="https://github.com/bhaskatripathi">Bhaskar Tripathi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/NataliaHartonoFung">
-        <img src="https://avatars2.githubusercontent.com/u/57716464" width="100px;" alt="NataliaHartonoFung"/>
-      </a>
-      <br />
-      <a href="https://github.com/NataliaHartonoFung">NataliaHartonoFung</a>
+      <a href="https://github.com/giangzuzana">giangzuzana</a>
     </td>
   </tr>
 </table>
