@@ -199,8 +199,6 @@ I'm also an active open-source developer. Check out some of my open-source proje
 
 ## :zap: Github Stats
 
-<h1></h1>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thieu1995&theme=cobalt&langs_count=10&layout=compact) 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thieu1995&theme=calm&show_icons=true&count_private=true)
 
