@@ -210,18 +210,18 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/lscoelho">Leandro Coelho</a>
     </td>
     <td align="center">
+      <a href="https://github.com/bhaskatripathi">
+        <img src="https://avatars2.githubusercontent.com/u/35177508" width="100px;" alt="bhaskatripathi"/>
+      </a>
+      <br />
+      <a href="https://github.com/bhaskatripathi">Bhaskar Tripathi</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/NataliaHartonoFung">
         <img src="https://avatars2.githubusercontent.com/u/57716464" width="100px;" alt="NataliaHartonoFung"/>
       </a>
       <br />
       <a href="https://github.com/NataliaHartonoFung">NataliaHartonoFung</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/youssefavx">
-        <img src="https://avatars2.githubusercontent.com/u/56129524" width="100px;" alt="youssefavx"/>
-      </a>
-      <br />
-      <a href="https://github.com/youssefavx">youssefavx</a>
     </td>
   </tr>
 </table>
