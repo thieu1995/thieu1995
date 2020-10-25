@@ -284,6 +284,13 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/shreya-25">shreya agarwal</a>
     </td>
     <td align="center">
+      <a href="https://github.com/antoninodimaggio">
+        <img src="https://avatars2.githubusercontent.com/u/41660319" width="100px;" alt="antoninodimaggio"/>
+      </a>
+      <br />
+      <a href="https://github.com/antoninodimaggio">Antonino DiMaggio</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/abcnhonxe">
         <img src="https://avatars2.githubusercontent.com/u/7812131" width="100px;" alt="abcnhonxe"/>
       </a>
@@ -317,13 +324,6 @@ I'm also an active open-source developer. Check out some of my open-source proje
       </a>
       <br />
       <a href="https://github.com/lscoelho">Leandro Coelho</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/giangzuzana">
-        <img src="https://avatars2.githubusercontent.com/u/8191974" width="100px;" alt="giangzuzana"/>
-      </a>
-      <br />
-      <a href="https://github.com/giangzuzana">giangzuzana</a>
     </td>
   </tr>
 </table>
