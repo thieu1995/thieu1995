@@ -27,7 +27,7 @@ I'm also an active open-source developer. Check out some of my open-source proje
 - Permetrics: [here](https://github.com/thieu1995/permetrics)
 
 
-<h2 align="center">Favorite Languages and Tools</h2>
+<h1>Favorite Languages and Tools</h1>
 
 <a href="https://www.python.org/">
     <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code></a>
@@ -100,13 +100,13 @@ I'm also an active open-source developer. Check out some of my open-source proje
 </a> 
 
 
-<h2 align="center">My GitHub Status</h2>
+<h1>My GitHub Status</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thieu1995&theme=cobalt&langs_count=10&layout=compact) 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thieu1995&theme=calm&show_icons=true&count_private=true)
 
 
-<h2 align="center">Trophies</h2>
+<h1>Trophies</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thieu1995&label=Profile%20views&color=0e75b6&style=flat" alt="thieu1995" /> </p>
 <p align="left"> 
@@ -122,7 +122,7 @@ I'm also an active open-source developer. Check out some of my open-source proje
  
 
 
-<h2 align="center">My Top Followers</h2>
+<h1>My Top Followers</h1>
 
 <!--START_SECTION:top-followers-->
 <table>
