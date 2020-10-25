@@ -26,9 +26,8 @@ I'm also an active open-source developer. Check out some of my open-source proje
 - Opfunu: [here](https://github.com/thieu1995/opfunu)
 - Permetrics: [here](https://github.com/thieu1995/permetrics)
 
----
 
-### Favorite Languages and Tools
+<h3 align="center">Favorite Languages and Tools</h3>
 
 <a href="https://www.python.org/">
     <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code></a>
@@ -101,12 +100,13 @@ I'm also an active open-source developer. Check out some of my open-source proje
 </a> 
 
 
-### My GitHub Status 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thieu1995) ![Github stats](https://github-readme-stats.vercel.app/api?username=thieu1995&show_icons=true)
+<h3 align="center">My GitHub Status</h3>
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thieu1995&theme=cobalt&langs_count=10&layout=compact) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=thieu1995&theme=calm&show_icons=true&count_private=true)
 
-### My Followers
+
+<h3 align="center">Trophies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thieu1995&label=Profile%20views&color=0e75b6&style=flat" alt="thieu1995" /> </p>
 <p align="left"> 
@@ -116,9 +116,13 @@ I'm also an active open-source developer. Check out some of my open-source proje
 </p>
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=thieu1995" alt="thieu1995" />
+	<img src="https://github-profile-trophy.vercel.app/?username=thieu1995&theme=chalk&margin-w=15" alt="thieu1995" />
 	</a> 
 </p>
+ 
+
+
+<h3 align="center">My Top Followers</h3>
 
 <!--START_SECTION:top-followers-->
 <table>
