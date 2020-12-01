@@ -247,11 +247,11 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/jeongwhanchoi">Jeongwhan Choi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/antoninodimaggio">
-        <img src="https://avatars2.githubusercontent.com/u/41660319" width="100px;" alt="antoninodimaggio"/>
+      <a href="https://github.com/AlphaJia">
+        <img src="https://avatars2.githubusercontent.com/u/22952410" width="100px;" alt="AlphaJia"/>
       </a>
       <br />
-      <a href="https://github.com/antoninodimaggio">Antonino DiMaggio</a>
+      <a href="https://github.com/AlphaJia">pengfei</a>
     </td>
     <td align="center">
       <a href="https://github.com/lamtov">
@@ -268,11 +268,11 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/trandinhhieu1989">TRAN DINH HIEU</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AlphaJia">
-        <img src="https://avatars2.githubusercontent.com/u/22952410" width="100px;" alt="AlphaJia"/>
+      <a href="https://github.com/battyone">
+        <img src="https://avatars2.githubusercontent.com/u/1543719" width="100px;" alt="battyone"/>
       </a>
       <br />
-      <a href="https://github.com/AlphaJia">pengfei</a>
+      <a href="https://github.com/battyone">battyone</a>
     </td>
   </tr>
   <tr>
@@ -289,6 +289,13 @@ I'm also an active open-source developer. Check out some of my open-source proje
       </a>
       <br />
       <a href="https://github.com/ThanThoai">Thần Thoại</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SefaAltunyurt">
+        <img src="https://avatars2.githubusercontent.com/u/32333459" width="100px;" alt="SefaAltunyurt"/>
+      </a>
+      <br />
+      <a href="https://github.com/SefaAltunyurt">Sefa Altunyurt</a>
     </td>
     <td align="center">
       <a href="https://github.com/NTLresearch">
@@ -310,13 +317,6 @@ I'm also an active open-source developer. Check out some of my open-source proje
       </a>
       <br />
       <a href="https://github.com/abcnhonxe">nguyen tran</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SefaAltunyurt">
-        <img src="https://avatars2.githubusercontent.com/u/32333459" width="100px;" alt="SefaAltunyurt"/>
-      </a>
-      <br />
-      <a href="https://github.com/SefaAltunyurt">Sefa Altunyurt</a>
     </td>
     <td align="center">
       <a href="https://github.com/REOSTA9">
