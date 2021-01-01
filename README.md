@@ -254,6 +254,13 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/AlphaJia">pengfei</a>
     </td>
     <td align="center">
+      <a href="https://github.com/khiemdoan">
+        <img src="https://avatars2.githubusercontent.com/u/15646249" width="100px;" alt="khiemdoan"/>
+      </a>
+      <br />
+      <a href="https://github.com/khiemdoan">Khiem Doan</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lamtov">
         <img src="https://avatars2.githubusercontent.com/u/22026367" width="100px;" alt="lamtov"/>
       </a>
@@ -267,22 +274,8 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <br />
       <a href="https://github.com/trandinhhieu1989">TRAN DINH HIEU</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/battyone">
-        <img src="https://avatars2.githubusercontent.com/u/1543719" width="100px;" alt="battyone"/>
-      </a>
-      <br />
-      <a href="https://github.com/battyone">battyone</a>
-    </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/ZaidUsm">
-        <img src="https://avatars2.githubusercontent.com/u/10948900" width="100px;" alt="ZaidUsm"/>
-      </a>
-      <br />
-      <a href="https://github.com/ZaidUsm">Zaid Alyasseri</a>
-    </td>
     <td align="center">
       <a href="https://github.com/ThanThoai">
         <img src="https://avatars2.githubusercontent.com/u/32336879" width="100px;" alt="ThanThoai"/>
@@ -291,11 +284,18 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/ThanThoai">Thần Thoại</a>
     </td>
     <td align="center">
-      <a href="https://github.com/SefaAltunyurt">
-        <img src="https://avatars2.githubusercontent.com/u/32333459" width="100px;" alt="SefaAltunyurt"/>
+      <a href="https://github.com/battyone">
+        <img src="https://avatars2.githubusercontent.com/u/1543719" width="100px;" alt="battyone"/>
       </a>
       <br />
-      <a href="https://github.com/SefaAltunyurt">Sefa Altunyurt</a>
+      <a href="https://github.com/battyone">battyone</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZaidUsm">
+        <img src="https://avatars2.githubusercontent.com/u/10948900" width="100px;" alt="ZaidUsm"/>
+      </a>
+      <br />
+      <a href="https://github.com/ZaidUsm">Zaid Alyasseri</a>
     </td>
     <td align="center">
       <a href="https://github.com/NTLresearch">
@@ -305,11 +305,11 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/NTLresearch">Official github of NTL research group</a>
     </td>
     <td align="center">
-      <a href="https://github.com/shreya-25">
-        <img src="https://avatars2.githubusercontent.com/u/46867165" width="100px;" alt="shreya-25"/>
+      <a href="https://github.com/pedronarloch">
+        <img src="https://avatars2.githubusercontent.com/u/4072499" width="100px;" alt="pedronarloch"/>
       </a>
       <br />
-      <a href="https://github.com/shreya-25">shreya agarwal</a>
+      <a href="https://github.com/pedronarloch">Pedro Henrique Narloch</a>
     </td>
     <td align="center">
       <a href="https://github.com/abcnhonxe">
@@ -319,11 +319,11 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/abcnhonxe">nguyen tran</a>
     </td>
     <td align="center">
-      <a href="https://github.com/REOSTA9">
-        <img src="https://avatars2.githubusercontent.com/u/32418099" width="100px;" alt="REOSTA9"/>
+      <a href="https://github.com/SefaAltunyurt">
+        <img src="https://avatars2.githubusercontent.com/u/32333459" width="100px;" alt="SefaAltunyurt"/>
       </a>
       <br />
-      <a href="https://github.com/REOSTA9">NO</a>
+      <a href="https://github.com/SefaAltunyurt">Sefa Altunyurt</a>
     </td>
   </tr>
 </table>
