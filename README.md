@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thieu (Fullname: Nguyen Van Thieu)</h1>
 
 <h3> Quick notification </h3>
-facebook just block my account without any reason (2/2/2021). So I have deleted this app and twitter permanently from my
- phone. You can connect with me via email, free speech social apps like gab and mewe or more secure (distributed chat) app
- matrix, diaspora and solid. (solid is still under development but I really love their ideas about distributed app) Let's think
-  about it "one day you wake up and your account is blocked. What do you gonna do?" <br/> <br/>
+facebook just blocked my account without any reason (2/2/2021). So I have deleted this app and twitter permanently
+ from my phone. You can connect with me via email, free speech social apps like gab and mewe or more secure
+  (distributed chat) app matrix, diaspora and solid. (solid is still under development but I really love their ideas
+   about the distributed app) Let's think about it "one day you wake up and your account is blocked. What do you gonna do?" <br/> <br/>
 
 [![gab badge](https://img.shields.io/badge/gab-thieu1995-%23FF0000?style=flat&logo=gab)](https://gab.com/thieu1995)
 [![mewe badge](https://img.shields.io/badge/mewe-thieu1995-%23FF0000?style=flat&logo=mewe)](https://mewe.com/i/thieu1995)
@@ -15,7 +15,7 @@ facebook just block my account without any reason (2/2/2021). So I have deleted 
 
 ---
 
-My interested fields including Artificial Intelligence || Machine Learning || Deep Learning || Optimization || Metaheuristics || Nature-inspired Computing || Fullstack Web Technologies || Nature Language Processing || Transfer Learning|| ... <br/> <br/>
+My interested fields including Artificial Intelligence || Machine Learning || Deep Learning || Optimization || Metaheuristics || Nature-inspired Computing || Fullstack Web Technologies || Nature Language Processing || Transfer Learning|| ...
 - ⚡️ Technologies: Python and related framework (numpy, pandas, scikit-learn, keras, tensorflow, pytorch), Optimization (Metaheuristics, Swarm Intelligence,...), Matlab, NLP and Transfer Learning, Javascript, Flask, Angular 2+, Nodejs, MongoDB, MySql, NoSql, Java Spring, etc...
 - 👨‍💻 All of my projects are available 👉  [here](https://github.com/thieu1995?tab=repositories)
 - 🌱 My research gate profile: [here](https://www.researchgate.net/profile/Thieu_Nguyen6)
@@ -33,7 +33,7 @@ I'm also an active open-source developer. Check out some of my open-source proje
 - Permetrics: [here](https://github.com/thieu1995/permetrics)
 
 - 💬 Upcoming Event: **New open-source library is coming soon. This library for solving multiple/many objective
- optimization problems by using metaheuristics (Finding Pareto fronts or whatever).**
+ optimization problems by using metaheuristics (Finding Pareto fronts or whatever).** <br/> <br/>
 
 
 ## :wrench: Favorite Languages and Tools
