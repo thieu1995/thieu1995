@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Thieu (Fullname: Nguyen Van Thieu)</h1>
-My interested fields including Artificial Intelligence || Machine Learning || Deep Learning || Optimization || Metaheuristics || Nature-inspired Computing || Fullstack Web Technologies || Nature Language Processing || Transfer Learning|| ... <br/> <br/>
 
+<h3> Quick notification </h3>
+facebook just block my account without any reason (2/2/2021). So I have deleted this app and twitter permanently from my
+ phone. You can connect with me via email, free speech social apps like gab and mewe or more secure (distributed chat) app
+ matrix, diaspora and solid. (solid is still under development but I really love their ideas about distributed app) Let's think
+  about it "one day you wake up and your account is blocked. What do you gonna do?" <br/> <br/>
+
+[![gab badge](https://img.shields.io/badge/gab-thieu1995-%23FF0000?style=flat&logo=gab)](https://gab.com/thieu1995)
 [![mewe badge](https://img.shields.io/badge/mewe-thieu1995-%23FF0000?style=flat&logo=mewe)](https://mewe.com/i/thieu1995)
-[![glitch badge](https://img.shields.io/badge/facebook-thieu1995-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/thieu1995)
-[![twitter badge](https://img.shields.io/badge/twitter-@nguyenthieu1995-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nguyenthieu1995)
+[![matrix badge](https://img.shields.io/badge/matrix-thieu1995-%23FF0000?style=flat&logo=matrix)](https://matrix.to/#/@thieu1995:matrix.org)
 [![dev.to badge](https://img.shields.io/badge/linkedin-thieu1995-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/thieu1995)
-[![twitter badge](https://img.shields.io/badge/instagram-@nguyenthieu1995-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nguyenthieu1995)
+[![diaspora badge](https://img.shields.io/badge/diaspora-thieu1995-%23E4415F?style=flat&logo=diaspora&logoColor=white)](https://diasp.org/people/0c159a90472601392d227085c2fdcc0b)
+[![solid badge](https://img.shields.io/badge/solid-thieu1995-%231FA1F1?style=flat&logo=solid&logoColor=white)](https://thieu1995.solidcommunity.net/)
 
+---
 
+My interested fields including Artificial Intelligence || Machine Learning || Deep Learning || Optimization || Metaheuristics || Nature-inspired Computing || Fullstack Web Technologies || Nature Language Processing || Transfer Learning|| ... <br/> <br/>
 - ⚡️ Technologies: Python and related framework (numpy, pandas, scikit-learn, keras, tensorflow, pytorch), Optimization (Metaheuristics, Swarm Intelligence,...), Matlab, NLP and Transfer Learning, Javascript, Flask, Angular 2+, Nodejs, MongoDB, MySql, NoSql, Java Spring, etc...
 - 👨‍💻 All of my projects are available 👉  [here](https://github.com/thieu1995?tab=repositories)
 - 🌱 My research gate profile: [here](https://www.researchgate.net/profile/Thieu_Nguyen6)
@@ -15,16 +23,17 @@ My interested fields including Artificial Intelligence || Machine Learning || De
 - 📦 Founder of chasebk group: [here](https://github.com/chasebk)
 - ⚒️ Co-founder of AIIR group: [coding store](https://github.com/ai-independent) and [web](https://ai-independent.github.io/)
 - 📝 I regulary write articles on [link](https://thieu1995.github.io/)
-- 💬 Ask me about **Python, Machine Learning, Deep Learning**
 - 📫 Looking for an internship/opportunity/collaboration, contact me **nguyenthieu2102@gmail.com**
 - 📄 Know about my experiences [CV](https://ai-independent.github.io/members/thieunguyen5991/cv-pdf.html)
 - ⚡ Fun fact **I am a real lazy boy, hard-working by feeling.**
-
 
 I'm also an active open-source developer. Check out some of my open-source projects:
 - Mealpy: [here](https://github.com/thieu1995/mealpy)
 - Opfunu: [here](https://github.com/thieu1995/opfunu)
 - Permetrics: [here](https://github.com/thieu1995/permetrics)
+
+- 💬 Upcoming Event: **New open-source library is coming soon. This library for solving multiple/many objective
+ optimization problems by using metaheuristics (Finding Pareto fronts or whatever).**
 
 
 ## :wrench: Favorite Languages and Tools
@@ -44,28 +53,24 @@ I'm also an active open-source developer. Check out some of my open-source proje
 <a href="https://www.gnu.org/software/octave/index" target="_blank">
     <code><img height="30" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/octave-icon.png"></code></a>
 
-<a href="https://developer.android.com" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android"></code>
-</a>
-
 <a href="https://angular.io" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs"></code>
 </a>
 
 <a href="https://getbootstrap.com" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="boostrap"></code>
+    <code><img height="30" src="https://https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="boostrap"></code>
 </a>
 
 <a href="https://www.cprogramming.com/" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C"></code>
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3"></code>
 </a>
 
 <a href="https://expressjs.com" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="expressjs"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="expressjs"></code>
 </a>
 
 <a href="https://firebase.google.com/" target="_blank">
@@ -89,7 +94,7 @@ I'm also an active open-source developer. Check out some of my open-source proje
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
 </a>
 
 <a href="https://gohugo.io/" target="_blank">
@@ -101,11 +106,11 @@ I'm also an active open-source developer. Check out some of my open-source proje
 </a>
 
 <a href="https://www.java.com" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java"></code>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
 </a>
 
 <a href="https://jekyllrb.com/" target="_blank">
@@ -113,7 +118,7 @@ I'm also an active open-source developer. Check out some of my open-source proje
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux"></code>
 </a>
 
 <a href="https://materializecss.com/" target="_blank">
@@ -121,43 +126,35 @@ I'm also an active open-source developer. Check out some of my open-source proje
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></code>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
 </a>
 
 <a href="https://nodejs.org" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"></code>
 </a>
 
 <a href="https://www.photoshop.com/en" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop"></code>
 </a>
 
 <a href="https://www.php.net" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php"></code>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php"></code>
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"></code>
 </a>
 
 <a href="https://reactnative.dev/" target="_blank">
     <code><img height="30" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative"></code>
 </a>
 
-<a href="https://redis.io" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis"></code>
-</a>
-
 <a href="https://sass-lang.com" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass"></code>
 </a>
 
 
@@ -188,10 +185,6 @@ I'm also an active open-source developer. Check out some of my open-source proje
 
 <a href="https://unity.com/" target="_blank">
     <code><img height="30" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity"></code>
-</a>
-
-<a href="https://webpack.js.org" target="_blank">
-    <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack"></code>
 </a>
 
 
