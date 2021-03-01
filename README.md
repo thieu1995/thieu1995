@@ -233,18 +233,18 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/rodrigoclira">Rodrigo Lira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AlphaJia">
-        <img src="https://avatars2.githubusercontent.com/u/22952410" width="100px;" alt="AlphaJia"/>
-      </a>
-      <br />
-      <a href="https://github.com/AlphaJia">pengfei</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/chenyuxiang0425">
         <img src="https://avatars2.githubusercontent.com/u/43312224" width="100px;" alt="chenyuxiang0425"/>
       </a>
       <br />
       <a href="https://github.com/chenyuxiang0425">Yuxiang Chen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AlphaJia">
+        <img src="https://avatars2.githubusercontent.com/u/22952410" width="100px;" alt="AlphaJia"/>
+      </a>
+      <br />
+      <a href="https://github.com/AlphaJia">pengfei</a>
     </td>
     <td align="center">
       <a href="https://github.com/jeongwhanchoi">
@@ -312,11 +312,11 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/pedronarloch">Pedro Henrique Narloch</a>
     </td>
     <td align="center">
-      <a href="https://github.com/abcnhonxe">
-        <img src="https://avatars2.githubusercontent.com/u/7812131" width="100px;" alt="abcnhonxe"/>
+      <a href="https://github.com/lscoelho">
+        <img src="https://avatars2.githubusercontent.com/u/25365350" width="100px;" alt="lscoelho"/>
       </a>
       <br />
-      <a href="https://github.com/abcnhonxe">nguyen tran</a>
+      <a href="https://github.com/lscoelho">Leandro Coelho</a>
     </td>
   </tr>
 </table>
