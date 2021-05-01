@@ -226,6 +226,13 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/celikyuksell">Yuksel Celik</a>
     </td>
     <td align="center">
+      <a href="https://github.com/chenyuxiang0425">
+        <img src="https://avatars2.githubusercontent.com/u/43312224" width="100px;" alt="chenyuxiang0425"/>
+      </a>
+      <br />
+      <a href="https://github.com/chenyuxiang0425">Yuxiang Chen</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/rodrigoclira">
         <img src="https://avatars2.githubusercontent.com/u/276077" width="100px;" alt="rodrigoclira"/>
       </a>
@@ -238,13 +245,6 @@ I'm also an active open-source developer. Check out some of my open-source proje
       </a>
       <br />
       <a href="https://github.com/AlphaJia">pengfei</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/chenyuxiang0425">
-        <img src="https://avatars2.githubusercontent.com/u/43312224" width="100px;" alt="chenyuxiang0425"/>
-      </a>
-      <br />
-      <a href="https://github.com/chenyuxiang0425">Yuxiang Chen</a>
     </td>
     <td align="center">
       <a href="https://github.com/jeongwhanchoi">
@@ -270,13 +270,6 @@ I'm also an active open-source developer. Check out some of my open-source proje
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/lamtov">
-        <img src="https://avatars2.githubusercontent.com/u/22026367" width="100px;" alt="lamtov"/>
-      </a>
-      <br />
-      <a href="https://github.com/lamtov">Tô Văn Lâm</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ThanThoai">
         <img src="https://avatars2.githubusercontent.com/u/32336879" width="100px;" alt="ThanThoai"/>
       </a>
@@ -284,11 +277,25 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/ThanThoai">Thần Thoại</a>
     </td>
     <td align="center">
+      <a href="https://github.com/lamtov">
+        <img src="https://avatars2.githubusercontent.com/u/22026367" width="100px;" alt="lamtov"/>
+      </a>
+      <br />
+      <a href="https://github.com/lamtov">Tô Văn Lâm</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/trandinhhieu1989">
         <img src="https://avatars2.githubusercontent.com/u/18136249" width="100px;" alt="trandinhhieu1989"/>
       </a>
       <br />
       <a href="https://github.com/trandinhhieu1989">TRAN DINH HIEU</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/miladvazan">
+        <img src="https://avatars2.githubusercontent.com/u/48149169" width="100px;" alt="miladvazan"/>
+      </a>
+      <br />
+      <a href="https://github.com/miladvazan">Milad Vazan</a>
     </td>
     <td align="center">
       <a href="https://github.com/battyone">
@@ -310,13 +317,6 @@ I'm also an active open-source developer. Check out some of my open-source proje
       </a>
       <br />
       <a href="https://github.com/NTLresearch">Official github of NTL research group</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pedronarloch">
-        <img src="https://avatars2.githubusercontent.com/u/4072499" width="100px;" alt="pedronarloch"/>
-      </a>
-      <br />
-      <a href="https://github.com/pedronarloch">Pedro Henrique Narloch</a>
     </td>
   </tr>
 </table>
