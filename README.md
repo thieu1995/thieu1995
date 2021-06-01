@@ -219,6 +219,20 @@ I'm also an active open-source developer. Check out some of my open-source proje
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/Magicianred">
+        <img src="https://avatars2.githubusercontent.com/u/4624113" width="100px;" alt="Magicianred"/>
+      </a>
+      <br />
+      <a href="https://github.com/Magicianred">Simone Paolucci</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ashishpatel26">
+        <img src="https://avatars2.githubusercontent.com/u/3095771" width="100px;" alt="ashishpatel26"/>
+      </a>
+      <br />
+      <a href="https://github.com/ashishpatel26">Ashish Patel</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/celikyuksell">
         <img src="https://avatars2.githubusercontent.com/u/10351936" width="100px;" alt="celikyuksell"/>
       </a>
@@ -226,11 +240,11 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/celikyuksell">Yuksel Celik</a>
     </td>
     <td align="center">
-      <a href="https://github.com/chenyuxiang0425">
-        <img src="https://avatars2.githubusercontent.com/u/43312224" width="100px;" alt="chenyuxiang0425"/>
+      <a href="https://github.com/lilujunai">
+        <img src="https://avatars2.githubusercontent.com/u/45548574" width="100px;" alt="lilujunai"/>
       </a>
       <br />
-      <a href="https://github.com/chenyuxiang0425">Yuxiang Chen</a>
+      <a href="https://github.com/lilujunai">lilujunai</a>
     </td>
     <td align="center">
       <a href="https://github.com/rodrigoclira">
@@ -240,18 +254,34 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/rodrigoclira">Rodrigo Lira</a>
     </td>
     <td align="center">
+      <a href="https://github.com/chenyuxiang0425">
+        <img src="https://avatars2.githubusercontent.com/u/43312224" width="100px;" alt="chenyuxiang0425"/>
+      </a>
+      <br />
+      <a href="https://github.com/chenyuxiang0425">Yuxiang Chen</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/AlphaJia">
         <img src="https://avatars2.githubusercontent.com/u/22952410" width="100px;" alt="AlphaJia"/>
       </a>
       <br />
       <a href="https://github.com/AlphaJia">pengfei</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jeongwhanchoi">
         <img src="https://avatars2.githubusercontent.com/u/29731173" width="100px;" alt="jeongwhanchoi"/>
       </a>
       <br />
       <a href="https://github.com/jeongwhanchoi">Jeongwhan Choi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/akkinasrikar">
+        <img src="https://avatars2.githubusercontent.com/u/51265375" width="100px;" alt="akkinasrikar"/>
+      </a>
+      <br />
+      <a href="https://github.com/akkinasrikar">srikar akkina</a>
     </td>
     <td align="center">
       <a href="https://github.com/koptimizer">
@@ -261,14 +291,19 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/koptimizer">Gwang Jong Ko</a>
     </td>
     <td align="center">
+      <a href="https://github.com/sasikiran">
+        <img src="https://avatars2.githubusercontent.com/u/1332828" width="100px;" alt="sasikiran"/>
+      </a>
+      <br />
+      <a href="https://github.com/sasikiran">Sasi Kiran Malladi</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/khiemdoan">
         <img src="https://avatars2.githubusercontent.com/u/15646249" width="100px;" alt="khiemdoan"/>
       </a>
       <br />
       <a href="https://github.com/khiemdoan">Khiem Doan</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ThanThoai">
         <img src="https://avatars2.githubusercontent.com/u/32336879" width="100px;" alt="ThanThoai"/>
@@ -282,41 +317,6 @@ I'm also an active open-source developer. Check out some of my open-source proje
       </a>
       <br />
       <a href="https://github.com/lamtov">Tô Văn Lâm</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/trandinhhieu1989">
-        <img src="https://avatars2.githubusercontent.com/u/18136249" width="100px;" alt="trandinhhieu1989"/>
-      </a>
-      <br />
-      <a href="https://github.com/trandinhhieu1989">TRAN DINH HIEU</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/miladvazan">
-        <img src="https://avatars2.githubusercontent.com/u/48149169" width="100px;" alt="miladvazan"/>
-      </a>
-      <br />
-      <a href="https://github.com/miladvazan">Milad Vazan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/battyone">
-        <img src="https://avatars2.githubusercontent.com/u/1543719" width="100px;" alt="battyone"/>
-      </a>
-      <br />
-      <a href="https://github.com/battyone">battyone</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ZaidUsm">
-        <img src="https://avatars2.githubusercontent.com/u/10948900" width="100px;" alt="ZaidUsm"/>
-      </a>
-      <br />
-      <a href="https://github.com/ZaidUsm">Zaid Alyasseri</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/NTLresearch">
-        <img src="https://avatars2.githubusercontent.com/u/40391161" width="100px;" alt="NTLresearch"/>
-      </a>
-      <br />
-      <a href="https://github.com/NTLresearch">Official github of NTL research group</a>
     </td>
   </tr>
 </table>
