@@ -233,18 +233,18 @@ I'm also an active open-source developer. Check out some of my open-source proje
       <a href="https://github.com/ashishpatel26">Ashish Patel</a>
     </td>
     <td align="center">
-      <a href="https://github.com/celikyuksell">
-        <img src="https://avatars2.githubusercontent.com/u/10351936" width="100px;" alt="celikyuksell"/>
-      </a>
-      <br />
-      <a href="https://github.com/celikyuksell">Yuksel Celik</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lilujunai">
         <img src="https://avatars2.githubusercontent.com/u/45548574" width="100px;" alt="lilujunai"/>
       </a>
       <br />
       <a href="https://github.com/lilujunai">lilujunai</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/celikyuksell">
+        <img src="https://avatars2.githubusercontent.com/u/10351936" width="100px;" alt="celikyuksell"/>
+      </a>
+      <br />
+      <a href="https://github.com/celikyuksell">Yuksel Celik</a>
     </td>
     <td align="center">
       <a href="https://github.com/rodrigoclira">
