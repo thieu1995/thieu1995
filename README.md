@@ -13,7 +13,6 @@ facebook just blocked my account without any reason (2/2/2021). So I have delete
 [![diaspora badge](https://img.shields.io/badge/diaspora-thieu1995-%23E4415F?style=flat&logo=diaspora&logoColor=white)](https://diasp.org/people/0c159a90472601392d227085c2fdcc0b)
 [![solid badge](https://img.shields.io/badge/solid-thieu1995-%231FA1F1?style=flat&logo=solid&logoColor=white)](https://thieu1995.solidcommunity.net/) -->
 
----
 
 My interested fields including Artificial Intelligence || Machine Learning || Deep Learning || Optimization || Metaheuristics || Nature-inspired Computing || Fullstack Web Technologies || Nature Language Processing || Transfer Learning|| ...
 - ⚡️ Technologies: Python and related framework (numpy, pandas, scikit-learn, keras, tensorflow, pytorch), Optimization (Metaheuristics, Swarm Intelligence,...), Matlab, NLP and Transfer Learning, Javascript, Flask, Angular 2+, Nodejs, MongoDB, MySql, NoSql, Java Spring, etc...
