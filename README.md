@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thieu (Fullname: Nguyen Van Thieu)</h1>
 
-<h3> Quick notification </h3>
+<!-- <h3> Quick notification </h3>
 facebook just blocked my account without any reason (2/2/2021). So I have deleted this app and twitter permanently
  from my phone. You can connect with me via email, free speech social apps like gab and mewe or more secure
   (distributed chat) app matrix, diaspora and solid. (solid is still under development but I really love their ideas
@@ -11,7 +11,7 @@ facebook just blocked my account without any reason (2/2/2021). So I have delete
 [![matrix badge](https://img.shields.io/badge/matrix-thieu1995-%23FF0000?style=flat&logo=matrix)](https://matrix.to/#/@thieu1995:matrix.org)
 [![dev.to badge](https://img.shields.io/badge/linkedin-thieu1995-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/thieu1995)
 [![diaspora badge](https://img.shields.io/badge/diaspora-thieu1995-%23E4415F?style=flat&logo=diaspora&logoColor=white)](https://diasp.org/people/0c159a90472601392d227085c2fdcc0b)
-[![solid badge](https://img.shields.io/badge/solid-thieu1995-%231FA1F1?style=flat&logo=solid&logoColor=white)](https://thieu1995.solidcommunity.net/)
+[![solid badge](https://img.shields.io/badge/solid-thieu1995-%231FA1F1?style=flat&logo=solid&logoColor=white)](https://thieu1995.solidcommunity.net/) -->
 
 ---
 
