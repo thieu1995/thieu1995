@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thieu (Fullname: Nguyen Van Thieu)</h1>
+<h1 align="center">Hi 👋, I'm Thieu</h1>
 
 <!-- <h3> Quick notification </h3>
 facebook just blocked my account without any reason (2/2/2021). So I have deleted this app and twitter permanently
@@ -15,24 +15,22 @@ facebook just blocked my account without any reason (2/2/2021). So I have delete
 
 
 My interested fields including Artificial Intelligence || Machine Learning || Deep Learning || Optimization || Metaheuristics || Nature-inspired Computing || Fullstack Web Technologies || Nature Language Processing || Transfer Learning|| ...
-- ⚡️ Technologies: Python and related framework (numpy, pandas, scikit-learn, keras, tensorflow, pytorch), Optimization (Metaheuristics, Swarm Intelligence,...), Matlab, NLP and Transfer Learning, Javascript, Flask, Angular 2+, Nodejs, MongoDB, MySql, NoSql, Java Spring, etc...
-- 👨‍💻 All of my projects are available 👉  [here](https://github.com/thieu1995?tab=repositories)
-- 🌱 My research gate profile: [here](https://www.researchgate.net/profile/Thieu_Nguyen6)
-- ✏️ Google Scholar profile: [here](https://scholar.google.com/citations?user=nsTbdhgAAAAJ&hl=en)
-- 📦 Founder of chasebk group: [here](https://github.com/chasebk)
-- ⚒️ Co-founder of AIIR group: [coding store](https://github.com/ai-independent) and [web](https://ai-independent.github.io/)
-- 📝 I regulary write articles on [link](https://thieu1995.github.io/)
-- 📫 Looking for an internship/opportunity/collaboration, contact me **nguyenthieu2102@gmail.com**
-- 📄 Know about my experiences [CV](https://ai-independent.github.io/members/thieunguyen5991/cv-pdf.html)
-- ⚡ Fun fact **I am a real lazy boy, hard-working by feeling.**
+⚡️ Technologies: Python and related framework (numpy, pandas, scikit-learn, keras, tensorflow, pytorch), Optimization (Metaheuristics, Swarm Intelligence,...), Matlab, NLP and Transfer Learning, Javascript, Flask, Angular 2+, Nodejs, MongoDB, MySql, NoSql, Java Spring, etc...
+👨‍💻 All of my projects are available 👉  [here](https://github.com/thieu1995?tab=repositories)
+🌱 My research gate profile: [here](https://www.researchgate.net/profile/Thieu_Nguyen6)
+✏️ Google Scholar profile: [here](https://scholar.google.com/citations?user=nsTbdhgAAAAJ&hl=en)
+📦 Founder of chasebk group: [here](https://github.com/chasebk)
+⚒️ Co-founder of AIIR group: [coding store](https://github.com/ai-independent) and [web](https://ai-independent.github.io/)
+📝 I regulary write articles on [link](https://thieu1995.github.io/)
+📫 Looking for an internship/opportunity/collaboration, contact me **nguyenthieu2102@gmail.com**
+📄 Know about my experiences [CV](https://ai-independent.github.io/members/thieunguyen5991/cv-pdf.html)
+⚡ Favourite quote **Practice makes perfect**
 
 I'm also an active open-source developer. Check out some of my open-source projects:
 - Mealpy: [here](https://github.com/thieu1995/mealpy)
 - Opfunu: [here](https://github.com/thieu1995/opfunu)
 - Permetrics: [here](https://github.com/thieu1995/permetrics)
-
-- 💬 Upcoming Event: **New open-source library is coming soon. This library for solving multiple/many objective
- optimization problems by using metaheuristics (Finding Pareto fronts or whatever).** <br/> <br/>
+- Pfevaluator: [here](https://github.com/thieu1995/pfevaluator) 
 
 
 ## :wrench: Favorite Languages and Tools
@@ -198,11 +196,6 @@ I'm also an active open-source developer. Check out some of my open-source proje
 ## :trophy: Github Awards
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thieu1995&label=Profile%20views&color=0e75b6&style=flat" alt="thieu1995" /> </p>
-<p align="left"> 
-	<a href="https://twitter.com/nguyenthieu1995" target="_blank">
-	<img src="https://img.shields.io/twitter/follow/nguyenthieu1995?logo=twitter&style=for-the-badge" alt="nguyenthieu1995" />
-	</a> 
-</p>
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 	<img src="https://github-profile-trophy.vercel.app/?username=thieu1995&theme=chalk&margin-w=15" alt="thieu1995" />
