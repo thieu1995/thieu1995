@@ -15,16 +15,16 @@ facebook just blocked my account without any reason (2/2/2021). So I have delete
 
 
 My interested fields including Artificial Intelligence || Machine Learning || Deep Learning || Optimization || Metaheuristics || Nature-inspired Computing || Fullstack Web Technologies || Nature Language Processing || Transfer Learning|| ...
-⚡️ Technologies: Python and related framework (numpy, pandas, scikit-learn, keras, tensorflow, pytorch), Optimization (Metaheuristics, Swarm Intelligence,...), Matlab, NLP and Transfer Learning, Javascript, Flask, Angular 2+, Nodejs, MongoDB, MySql, NoSql, Java Spring, etc...
-👨‍💻 All of my projects are available 👉  [here](https://github.com/thieu1995?tab=repositories)
-🌱 My research gate profile: [here](https://www.researchgate.net/profile/Thieu_Nguyen6)
-✏️ Google Scholar profile: [here](https://scholar.google.com/citations?user=nsTbdhgAAAAJ&hl=en)
-📦 Founder of chasebk group: [here](https://github.com/chasebk)
-⚒️ Co-founder of AIIR group: [coding store](https://github.com/ai-independent) and [web](https://ai-independent.github.io/)
-📝 I regulary write articles on [link](https://thieu1995.github.io/)
-📫 Looking for an internship/opportunity/collaboration, contact me **nguyenthieu2102@gmail.com**
-📄 Know about my experiences [CV](https://ai-independent.github.io/members/thieunguyen5991/cv-pdf.html)
-⚡ Favourite quote **Practice makes perfect**
+-⚡️ Technologies: Python and related framework (numpy, pandas, scikit-learn, keras, tensorflow, pytorch), Optimization (Metaheuristics, Swarm Intelligence,...), Matlab, NLP and Transfer Learning, Javascript, Flask, Angular 2+, Nodejs, MongoDB, MySql, NoSql, Java Spring, etc...
+-👨‍💻 All of my projects are available 👉  [here](https://github.com/thieu1995?tab=repositories)
+-🌱 My research gate profile: [here](https://www.researchgate.net/profile/Thieu_Nguyen6)
+-✏️ Google Scholar profile: [here](https://scholar.google.com/citations?user=nsTbdhgAAAAJ&hl=en)
+-📦 Founder of chasebk group: [here](https://github.com/chasebk)
+-⚒️ Co-founder of AIIR group: [coding store](https://github.com/ai-independent) and [web](https://ai-independent.github.io/)
+-📝 I regulary write articles on [link](https://thieu1995.github.io/)
+-📫 Looking for an internship/opportunity/collaboration, contact me **nguyenthieu2102@gmail.com**
+-📄 Know about my experiences [CV](https://ai-independent.github.io/members/thieunguyen5991/cv-pdf.html)
+-⚡ Favourite quote **Practice makes perfect**
 
 I'm also an active open-source developer. Check out some of my open-source projects:
 - Mealpy: [here](https://github.com/thieu1995/mealpy)
@@ -42,7 +42,7 @@ I'm also an active open-source developer. Check out some of my open-source proje
 <a href="https://www.typescriptlang.org/" target="_blank">
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><code>
-    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code></a>
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code></a>
 <a href="https://keras.io/" target="_blank"><code>
     <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg"></code></a>
 <a href="https://pytorch.org/" target="_blank">
@@ -55,7 +55,7 @@ I'm also an active open-source developer. Check out some of my open-source proje
 </a>
 
 <a href="https://getbootstrap.com" target="_blank">
-    <code><img height="30" src="https://https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="boostrap"></code>
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="boostrap"></code>
 </a>
 
 <a href="https://www.cprogramming.com/" target="_blank">
@@ -67,7 +67,7 @@ I'm also an active open-source developer. Check out some of my open-source proje
 </a>
 
 <a href="https://expressjs.com" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="expressjs"></code>
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs"></code>
 </a>
 
 <a href="https://firebase.google.com/" target="_blank">
@@ -144,10 +144,6 @@ I'm also an active open-source developer. Check out some of my open-source proje
 
 <a href="https://reactjs.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"></code>
-</a>
-
-<a href="https://reactnative.dev/" target="_blank">
-    <code><img height="30" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative"></code>
 </a>
 
 <a href="https://sass-lang.com" target="_blank">
