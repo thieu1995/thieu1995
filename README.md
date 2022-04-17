@@ -18,7 +18,7 @@ My interested fields including Artificial Intelligence || Machine Learning || De
 - ⚡️ Technologies: Python and related framework (numpy, pandas, scikit-learn, keras, tensorflow, pytorch), Optimization (Metaheuristics, Swarm Intelligence,...), Matlab, NLP and Transfer Learning, Javascript, Flask, Angular 2+, Nodejs, MongoDB, MySql, NoSql, Java Spring, etc...
 - 👨‍💻 All of my projects are available 👉  [here](https://github.com/thieu1995?tab=repositories)
 - ✏️ Google Scholar profile: [here](https://scholar.google.com/citations?user=nsTbdhgAAAAJ&hl=en)
-- ⚒️ Co-founder of AIIR group: [coding store](https://github.com/ai-independent) and [web](https://ai-independent.github.io/)
+- ⚒️ My AIIR team: [coding store](https://github.com/aiir-team) and [web](https://aiir-team.github.io/)
 - 📫 Looking for an internship/opportunity/collaboration, contact me **nguyenthieu2102@gmail.com**
 - ⚡ Favourite quote **Practice makes perfect**
 
