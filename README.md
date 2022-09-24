@@ -1,26 +1,20 @@
 <h1 align="center">Hi 👋, I'm Thieu</h1>
 
-<!-- <h3> Quick notification </h3>
-facebook just blocked my account without any reason (2/2/2021). So I have deleted this app and twitter permanently
- from my phone. You can connect with me via email, free speech social apps like gab and mewe or more secure
-  (distributed chat) app matrix, diaspora and solid. (solid is still under development but I really love their ideas
-   about the distributed app) Let's think about it "one day you wake up and your account is blocked. What do you gonna do?" <br/> <br/>
 
-[![gab badge](https://img.shields.io/badge/gab-thieu1995-%23FF0000?style=flat&logo=gab)](https://gab.com/thieu1995)
-[![mewe badge](https://img.shields.io/badge/mewe-thieu1995-%23FF0000?style=flat&logo=mewe)](https://mewe.com/i/thieu1995)
-[![matrix badge](https://img.shields.io/badge/matrix-thieu1995-%23FF0000?style=flat&logo=matrix)](https://matrix.to/#/@thieu1995:matrix.org)
 [![dev.to badge](https://img.shields.io/badge/linkedin-thieu1995-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/thieu1995)
-[![diaspora badge](https://img.shields.io/badge/diaspora-thieu1995-%23E4415F?style=flat&logo=diaspora&logoColor=white)](https://diasp.org/people/0c159a90472601392d227085c2fdcc0b)
-[![solid badge](https://img.shields.io/badge/solid-thieu1995-%231FA1F1?style=flat&logo=solid&logoColor=white)](https://thieu1995.solidcommunity.net/) -->
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguyenthieu2102@gmail.com)](mailto:nguyenthieu2102@gmail.com)
+![githubbadge](https://img.shields.io/github/followers/thieu1995?style=social)
+![githubbadge](https://img.shields.io/github/stars/thieu1995?style=social)
+![](https://komarev.com/ghpvc/?username=thieu1995&color=brightgreen&style=flat)
+
 
 
 My interested fields including Artificial Intelligence || Machine Learning || Deep Learning || Optimization || Metaheuristics || Nature-inspired Computing || Fullstack Web Technologies || Nature Language Processing || Transfer Learning|| ...
-- ⚡️ Technologies: Python and related framework (numpy, pandas, scikit-learn, keras, tensorflow, pytorch), Optimization (Metaheuristics, Swarm Intelligence,...), Matlab, NLP and Transfer Learning, Javascript, Flask, Angular 2+, Nodejs, MongoDB, MySql, NoSql, Java Spring, etc...
+
 - 👨‍💻 All of my projects are available 👉  [here](https://github.com/thieu1995?tab=repositories)
 - ✏️ Google Scholar profile: [here](https://scholar.google.com/citations?user=nsTbdhgAAAAJ&hl=en)
 - ⚒️ My AIIR team: [coding store](https://github.com/aiir-team) and [web](https://aiir-team.github.io/)
 - 📫 Looking for an internship/opportunity/collaboration, contact me **nguyenthieu2102@gmail.com**
-- ⚡ Favourite quote **Practice makes perfect**
 
 I'm also an active open-source developer. Check out some of my open-source projects:
 - Mealpy: [here](https://github.com/thieu1995/mealpy)
@@ -31,149 +25,123 @@ I'm also an active open-source developer. Check out some of my open-source proje
 
 ## :wrench: Favorite Languages and Tools
 
+
 <a href="https://www.python.org/" target="_blank">
     <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code></a>
-<a href="https://numpy.org/" target="_blank">
-	<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code></a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"><code>
-    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code></a>
-<a href="https://keras.io/" target="_blank"><code>
-    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg"></code></a>
-<a href="https://pytorch.org/" target="_blank">
-    <code><img height="30" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.svg"></code></a>
-<a href="https://www.gnu.org/software/octave/index" target="_blank">
-    <code><img height="30" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/octave-icon.png"></code></a>
-
-<a href="https://angular.io" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs"></code>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="boostrap"></code>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C"></code>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3"></code>
-</a>
-
-<a href="https://expressjs.com" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs"></code>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"></code>
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"></code>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
-</a>
-
-<a href="https://heroku.com" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"></code>
-</a>
-
-<a href="hexo.io/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo"></code>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
-</a>
-
-<a href="https://gohugo.io/" target="_blank">
-    <code><img height="30" src="https://api.iconify.design/logos-hugo.svg" alt="hugo"></code>
-</a>
-
-<a href="https://ionicframework.com" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic"></code>
-</a>
-
 <a href="https://www.java.com" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java"></code>
 </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
+<a href="https://www.cprogramming.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C"></code>
 </a>
-
-<a href="https://jekyllrb.com/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll"></code>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux"></code>
-</a>
-
-<a href="https://materializecss.com/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize"></code>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></code>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
-</a>
-
 <a href="https://nodejs.org" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"></code>
 </a>
-
-<a href="https://www.photoshop.com/en" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop"></code>
-</a>
-
 <a href="https://www.php.net" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php"></code>
 </a>
 
+
+
+
 <a href="https://reactjs.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"></code>
 </a>
-
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code></a>
+<a href="https://angular.io" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs"></code>
+</a>
 <a href="https://sass-lang.com" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass"></code>
 </a>
-
-
-<a href="https://scikit-learn.org/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></code>
+<a href="https://getbootstrap.com" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="boostrap"></code>
 </a>
-
-<a href="https://www.selenium.dev" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"></code>
+<a href="https://www.w3schools.com/css/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3"></code>
 </a>
-
+<a href="https://expressjs.com" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs"></code>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"></code>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"></code>
+</a>
+<a href="https://heroku.com" target="_blank">
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"></code>
+</a>
+<a href="hexo.io/" target="_blank">
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo"></code>
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
+</a>
+<a href="https://gohugo.io/" target="_blank">
+    <code><img height="30" src="https://api.iconify.design/logos-hugo.svg" alt="hugo"></code>
+</a>
+<a href="https://ionicframework.com" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic"></code>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
+</a>
+<a href="https://jekyllrb.com/" target="_blank">
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll"></code>
+</a>
+<a href="https://materializecss.com/" target="_blank">
+    <code><img height="30" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize"></code>
+</a>
 <a href="https://spring.io/" target="_blank">
     <code><img height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"></code>
 </a>
-
-
 <a href="https://www.sqlite.org/" target="_blank">
     <code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"></code>
 </a>
-
+<a href="https://www.mongodb.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></code>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
+</a>
+<a href="https://www.gnu.org/software/octave/index" target="_blank">
+    <code><img height="30" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/octave-icon.png"></code></a>
+<a href="https://www.selenium.dev" target="_blank">
+    <code><img height="30" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"></code>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux"></code>
+</a>
+<a href="https://www.photoshop.com/en" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop"></code>
+</a>
 <a href="https://symfony.com" target="_blank">
     <code><img height="30" src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony"></code>
 </a>
-
-<a href="https://www.tensorflow.org" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code>
-</a>
-
 <a href="https://unity.com/" target="_blank">
     <code><img height="30" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity"></code>
+</a>
+
+
+
+<a href="https://numpy.org/" target="_blank">
+	<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code></a>
+<a href="https://keras.io/" target="_blank"><code>
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg"></code></a>
+<a href="https://pytorch.org/" target="_blank">
+    <code><img height="30" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.svg"></code></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><code>
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code></a>
+<a href="https://scikit-learn.org/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></code>
+</a>
+<a href="https://www.tensorflow.org" target="_blank">
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code>
 </a>
 
 
@@ -181,13 +149,19 @@ I'm also an active open-source developer. Check out some of my open-source proje
 
 ## :zap: Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thieu1995&theme=cobalt&langs_count=10&layout=compact) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thieu1995&theme=zenburn)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thieu1995&theme=calm&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thieu1995&theme=cobalt&langs_count=10&layout=compact) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thieu1995&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thieu1995&theme=zenburn&utcOffset=8)
+
+
 
 
 ## :trophy: Github Awards
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thieu1995&label=Profile%20views&color=0e75b6&style=flat" alt="thieu1995" /> </p>
+
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 	<img src="https://github-profile-trophy.vercel.app/?username=thieu1995&theme=chalk&margin-w=15" alt="thieu1995" />
