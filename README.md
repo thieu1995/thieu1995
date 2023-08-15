@@ -30,8 +30,7 @@ I'm also an active open-source developer. Check out some of my open-source proje
 ## :wrench: Favorite Languages and Tools
 
 
-**OS Preferences:** 
-
+**OS Preferences:**
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank">
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" alt="linux"></code>
 </a>
@@ -63,11 +62,10 @@ I'm also an active open-source developer. Check out some of my open-source proje
 </a>
 
 
-**• AI Frameworks:** 
-
-
+**• AI Frameworks:**
 <a href="https://numpy.org/" target="_blank">
-	<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code></a>
+	<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
+</a>
 <a href="https://pandas.pydata.org/" target="_blank"><code>
     <img height="30" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"></code></a>
 <a href="https://scikit-learn.org/" target="_blank">
@@ -83,7 +81,7 @@ I'm also an active open-source developer. Check out some of my open-source proje
     <code><img height="30" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"></code></a>
 
 
-**• Web Development:** 
+**• Web Development:**
 
 <a href="https://www.w3.org/html/" target="_blank">
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
@@ -127,7 +125,6 @@ I'm also an active open-source developer. Check out some of my open-source proje
 
 
 **• App Development:**
-
 <a href="https://developer.android.com/studio/intro?hl=vi" target="_blank">
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" alt="java-android"></code>
 </a>
@@ -137,7 +134,6 @@ I'm also an active open-source developer. Check out some of my open-source proje
 
 
 **• Storage:**
-
 <a href="https://git-scm.com/" target="_blank">
     <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
 </a>
@@ -149,8 +145,7 @@ I'm also an active open-source developer. Check out some of my open-source proje
 </a>
 
 
-**• Database:** 
-
+**• Database:**
 <a href="https://www.sqlite.org/" target="_blank">
     <code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"></code>
 </a>
