@@ -17,14 +17,25 @@ My interested fields including Artificial Intelligence || Machine Learning || De
 - 📫 Looking for collaboration, contact me **nguyenthieu2102@gmail.com**
 
 I'm also an active open-source developer. Check out some of my open-source projects:
-- [Mealpy](https://github.com/thieu1995/mealpy): Python Library for the State-of-the-art Metaheuristic Algorithms 
-- [Opfunu](https://github.com/thieu1995/opfunu): Python Library for Benchmark functions in numerical optimization problems
-- [Permetrics](https://github.com/thieu1995/permetrics): Artificial intelligence (AI, ML, DL) performance metrics implemented in Python
-- [Pfevaluator](https://github.com/thieu1995/pfevaluator): Performance metrics of Pareto fronts in multiple/many objective optimization problems
-- [mafese](https://github.com/thieu1995/mafese): Metaheuristics library for Feature Selection
-- [MetaCluster](https://github.com/thieu1995/MetaCluster): An Open-Source Python Library for Metaheuristic-based Clustering Problems
-- [IntelELM](https://github.com/thieu1995/IntelELM): Intelligent Metaheuristic-based Extreme Learning Machine
-- [EvoRBF](https://github.com/thieu1995/EvoRBF):  A Python Library for Evolving Radial Basis Function Network by Intelligent Nature-inspired Algorithms
+
+
+| **Library**                                                   | **Downloads**                                                                                           |
+|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| [Mealpy](https://github.com/thieu1995/mealpy)                 | [![Downloads](https://static.pepy.tech/badge/mealpy)](https://pepy.tech/project/mealpy)                 |
+| [Opfunu](https://github.com/thieu1995/opfunu)                 | [![Downloads](https://static.pepy.tech/badge/opfunu)](https://pepy.tech/project/opfunu)                 |
+| [PerMetrics](https://github.com/thieu1995/permetrics)         | [![Downloads](https://static.pepy.tech/badge/permetrics)](https://pepy.tech/project/permetrics)         |
+| [pfevaluator](https://github.com/thieu1995/pfevaluator)       | [![Downloads](https://static.pepy.tech/badge/pfevaluator)](https://pepy.tech/project/pfevaluator)       |
+| [mafese](https://github.com/thieu1995/mafese)                 | [![Downloads](https://static.pepy.tech/badge/mafese)](https://pepy.tech/project/mafese)                 |
+| [MetaCluster](https://github.com/thieu1995/MetaCluster)       | [![Downloads](https://static.pepy.tech/badge/MetaCluster)](https://pepy.tech/project/MetaCluster)       |
+| [IntelELM](https://github.com/thieu1995/IntelELM)             | [![Downloads](https://static.pepy.tech/badge/IntelELM)](https://pepy.tech/project/IntelELM)             |
+| [MetaPerceptron](https://github.com/thieu1995/MetaPerceptron) | [![Downloads](https://static.pepy.tech/badge/MetaPerceptron)](https://pepy.tech/project/MetaPerceptron) |
+| [deforce](https://github.com/thieu1995/deforce)               | [![Downloads](https://static.pepy.tech/badge/deforce)](https://pepy.tech/project/deforce)               |
+| [ENOPPY](https://github.com/thieu1995/enoppy)                 | [![Downloads](https://static.pepy.tech/badge/enoppy)](https://pepy.tech/project/enoppy)                 |
+| [reflame](https://github.com/thieu1995/reflame)               | [![Downloads](https://static.pepy.tech/badge/reflame)](https://pepy.tech/project/reflame)               |
+| [GrafoRVFL](https://github.com/thieu1995/GrafoRVFL)           | [![Downloads](https://static.pepy.tech/badge/GrafoRVFL)](https://pepy.tech/project/GrafoRVFL)           |
+| [EvoRBF](https://github.com/thieu1995/EvoRBF)                 | N/A                                                                                                     |
+| [BIO-ANFIS](https://github.com/thieu1995/BIO-ANFIS)           | N/A                                                                                                     |
+
 
 
 ## :wrench: Favorite Languages and Tools
