@@ -25,42 +25,39 @@ I'm also an active open-source developer. Check out some of my open-source proje
 
   **Machine Learning**
   
-  | **Library**                                                   | **Downloads**                                                                                           |
-  |---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| **Library**                                                   | **Downloads**                                                                                           |
+|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | [PerMetrics](https://github.com/thieu1995/permetrics)         | [![Downloads](https://static.pepy.tech/badge/permetrics)](https://pepy.tech/project/permetrics)         |
 | [MetaCluster](https://github.com/thieu1995/MetaCluster)       | [![Downloads](https://static.pepy.tech/badge/MetaCluster)](https://pepy.tech/project/MetaCluster)       |
 | [IntelELM](https://github.com/thieu1995/IntelELM)             | [![Downloads](https://static.pepy.tech/badge/IntelELM)](https://pepy.tech/project/IntelELM)             |
 | [MetaPerceptron](https://github.com/thieu1995/MetaPerceptron) | [![Downloads](https://static.pepy.tech/badge/MetaPerceptron)](https://pepy.tech/project/MetaPerceptron) |
 | [deforce](https://github.com/thieu1995/deforce)               | [![Downloads](https://static.pepy.tech/badge/deforce)](https://pepy.tech/project/deforce)               |
-  | [reflame](https://github.com/thieu1995/reflame)               | [![Downloads](https://static.pepy.tech/badge/reflame)](https://pepy.tech/project/reflame)               |
+| [reflame](https://github.com/thieu1995/reflame)               | [![Downloads](https://static.pepy.tech/badge/reflame)](https://pepy.tech/project/reflame)               |
 | [GrafoRVFL](https://github.com/thieu1995/GrafoRVFL)           | [![Downloads](https://static.pepy.tech/badge/GrafoRVFL)](https://pepy.tech/project/GrafoRVFL)           |
 | [EvoRBF](https://github.com/thieu1995/EvoRBF)                 | [![Downloads](https://static.pepy.tech/badge/EvoRBF)](https://pepy.tech/project/EvoRBF)                 |
 | [X-ANFIS](https://github.com/thieu1995/X-ANFIS)               | [![Downloads](https://static.pepy.tech/badge/xanfis)](https://pepy.tech/project/xanfis)                 |
- | [ProbNet](https://github.com/thieu1995/ProbNet)               | [![Downloads](https://static.pepy.tech/badge/probnet)](https://pepy.tech/project/probnet)                |
-  | [UniLVQ](https://github.com/thieu1995/UniLVQ)                 | [![Downloads](https://static.pepy.tech/badge/UniLVQ)](https://pepy.tech/project/UniLVQ)                |
-   | [PyLWL](https://github.com/thieu1995/PyLWL)                   | [![Downloads](https://static.pepy.tech/badge/PyLWL)](https://pepy.tech/project/PyLWL)                |
-    | [WaveletML](https://github.com/thieu1995/WaveletML)           | [![Downloads](https://static.pepy.tech/badge/WaveletML)](https://pepy.tech/project/WaveletML)                |
-     | [IMAINET](https://github.com/thieu1995/IMAINET)               | [![Downloads](https://static.pepy.tech/badge/IMAINET)](https://pepy.tech/project/IMAINET)                |
-     | [MetaKan](https://github.com/thieu1995/MetaKan)               | [![Downloads](https://static.pepy.tech/badge/MetaKan)](https://pepy.tech/project/MetaKan)                |
- 
+| [ProbNet](https://github.com/thieu1995/ProbNet)               | [![Downloads](https://static.pepy.tech/badge/probnet)](https://pepy.tech/project/probnet)               |
+| [UniLVQ](https://github.com/thieu1995/UniLVQ)                 | [![Downloads](https://static.pepy.tech/badge/UniLVQ)](https://pepy.tech/project/UniLVQ)                 |
+| [PyLWL](https://github.com/thieu1995/PyLWL)                   | [![Downloads](https://static.pepy.tech/badge/PyLWL)](https://pepy.tech/project/PyLWL)                   |
+| [WaveletML](https://github.com/thieu1995/WaveletML)           | [![Downloads](https://static.pepy.tech/badge/WaveletML)](https://pepy.tech/project/WaveletML)           |
+| [IMAINET](https://github.com/thieu1995/IMAINET)               | [![Downloads](https://static.pepy.tech/badge/IMAINET)](https://pepy.tech/project/IMAINET)               |
+| [MetaKan](https://github.com/thieu1995/MetaKan)               | [![Downloads](https://static.pepy.tech/badge/MetaKan)](https://pepy.tech/project/MetaKan)               |
 
   </div>
 
   <div style="flex: 1;">
 
-
   **Optimization**
 
-| **Library**                                             | **Downloads**                                                                                     |
-|---------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| [Mealpy](https://github.com/thieu1995/mealpy)           | [![Downloads](https://static.pepy.tech/badge/mealpy)](https://pepy.tech/project/mealpy)           |
-| [Opfunu](https://github.com/thieu1995/opfunu)           | [![Downloads](https://static.pepy.tech/badge/opfunu)](https://pepy.tech/project/opfunu)           |
-| [pfevaluator](https://github.com/thieu1995/pfevaluator) | [![Downloads](https://static.pepy.tech/badge/pfevaluator)](https://pepy.tech/project/pfevaluator) |
-| [mafese](https://github.com/thieu1995/mafese)           | [![Downloads](https://static.pepy.tech/badge/mafese)](https://pepy.tech/project/mafese)           |
-| [ENOPPY](https://github.com/thieu1995/enoppy)           | [![Downloads](https://static.pepy.tech/badge/enoppy)](https://pepy.tech/project/enoppy)           |
-| [MetaSklearn](https://github.com/thieu1995/MetaSklearn)     | [![Downloads](https://static.pepy.tech/badge/MetaSklearn)](https://pepy.tech/project/MetaSklearn)          |
-| [MetaMoo](https://github.com/thieu1995/MetaMoo)         | [![Downloads](https://static.pepy.tech/badge/metamoo)](https://pepy.tech/project/metamoo)          |
-
+| **Library**                                              | **Downloads**                                                                                     |
+|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| [Mealpy](https://github.com/thieu1995/mealpy)            | [![Downloads](https://static.pepy.tech/badge/mealpy)](https://pepy.tech/project/mealpy)           |
+| [Opfunu](https://github.com/thieu1995/opfunu)            | [![Downloads](https://static.pepy.tech/badge/opfunu)](https://pepy.tech/project/opfunu)           |
+| [pfevaluator](https://github.com/thieu1995/pfevaluator)  | [![Downloads](https://static.pepy.tech/badge/pfevaluator)](https://pepy.tech/project/pfevaluator) |
+| [mafese](https://github.com/thieu1995/mafese)            | [![Downloads](https://static.pepy.tech/badge/mafese)](https://pepy.tech/project/mafese)           |
+| [ENOPPY](https://github.com/thieu1995/enoppy)            | [![Downloads](https://static.pepy.tech/badge/enoppy)](https://pepy.tech/project/enoppy)           |
+| [MetaSklearn](https://github.com/thieu1995/MetaSklearn)  | [![Downloads](https://static.pepy.tech/badge/MetaSklearn)](https://pepy.tech/project/MetaSklearn) |
+| [MetaMoo](https://github.com/thieu1995/MetaMoo)          | [![Downloads](https://static.pepy.tech/badge/metamoo)](https://pepy.tech/project/metamoo)         |
 
 </div>
 
