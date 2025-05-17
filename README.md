@@ -19,38 +19,43 @@ My interested fields including Artificial Intelligence || Machine Learning || De
 I'm also an active open-source developer. Check out some of my open-source projects:
 
 
-| **Machine Learning** | **Optimization** |
-|----------------------|------------------|
-| 
-**Library** \| **Downloads**  
---- \| ---  
-[PerMetrics](https://github.com/thieu1995/permetrics) \| ![PerMetrics](https://static.pepy.tech/badge/permetrics)  
-[MetaCluster](https://github.com/thieu1995/MetaCluster) \| ![MetaCluster](https://static.pepy.tech/badge/MetaCluster)  
-[IntelELM](https://github.com/thieu1995/IntelELM) \| ![IntelELM](https://static.pepy.tech/badge/IntelELM)  
-[MetaPerceptron](https://github.com/thieu1995/MetaPerceptron) \| ![MetaPerceptron](https://static.pepy.tech/badge/MetaPerceptron)  
-[deforce](https://github.com/thieu1995/deforce) \| ![deforce](https://static.pepy.tech/badge/deforce)  
-[reflame](https://github.com/thieu1995/reflame) \| ![reflame](https://static.pepy.tech/badge/reflame)  
-[GrafoRVFL](https://github.com/thieu1995/GrafoRVFL) \| ![GrafoRVFL](https://static.pepy.tech/badge/GrafoRVFL)  
-[EvoRBF](https://github.com/thieu1995/EvoRBF) \| ![EvoRBF](https://static.pepy.tech/badge/EvoRBF)  
-[X-ANFIS](https://github.com/thieu1995/X-ANFIS) \| ![xanfis](https://static.pepy.tech/badge/xanfis)  
-[ProbNet](https://github.com/thieu1995/ProbNet) \| ![probnet](https://static.pepy.tech/badge/probnet)  
-[UniLVQ](https://github.com/thieu1995/UniLVQ) \| ![UniLVQ](https://static.pepy.tech/badge/UniLVQ)  
-[PyLWL](https://github.com/thieu1995/PyLWL) \| ![PyLWL](https://static.pepy.tech/badge/PyLWL)  
-[WaveletML](https://github.com/thieu1995/WaveletML) \| ![WaveletML](https://static.pepy.tech/badge/WaveletML)  
-[IMAINET](https://github.com/thieu1995/IMAINET) \| ![IMAINET](https://static.pepy.tech/badge/IMAINET)  
-[MetaKan](https://github.com/thieu1995/MetaKan) \| ![MetaKan](https://static.pepy.tech/badge/MetaKan)  
-| 
-**Library** \| **Downloads**  
---- \| ---  
-[Mealpy](https://github.com/thieu1995/mealpy) \| ![mealpy](https://static.pepy.tech/badge/mealpy)  
-[Opfunu](https://github.com/thieu1995/opfunu) \| ![opfunu](https://static.pepy.tech/badge/opfunu)  
-[pfevaluator](https://github.com/thieu1995/pfevaluator) \| ![pfevaluator](https://static.pepy.tech/badge/pfevaluator)  
-[mafese](https://github.com/thieu1995/mafese) \| ![mafese](https://static.pepy.tech/badge/mafese)  
-[ENOPPY](https://github.com/thieu1995/enoppy) \| ![enoppy](https://static.pepy.tech/badge/enoppy)  
-[MetaSklearn](https://github.com/thieu1995/MetaSklearn) \| ![MetaSklearn](https://static.pepy.tech/badge/MetaSklearn)  
-[MetaMoo](https://github.com/thieu1995/MetaMoo) \| ![metamoo](https://static.pepy.tech/badge/metamoo)  
+| **Machine Learning - Library** | **Downloads** | **Optimization - Library** | **Downloads** |
+|-------------------------------|---------------|-----------------------------|---------------|
+| [PerMetrics](https://github.com/thieu1995/permetrics)         | ![PerMetrics](https://static.pepy.tech/badge/permetrics)         | [Mealpy](https://github.com/thieu1995/mealpy)           | ![mealpy](https://static.pepy.tech/badge/mealpy)           |
+| [MetaCluster](https://github.com/thieu1995/MetaCluster)       | ![MetaCluster](https://static.pepy.tech/badge/MetaCluster)       | [Opfunu](https://github.com/thieu1995/opfunu)           | ![opfunu](https://static.pepy.tech/badge/opfunu)           |
+| [IntelELM](https://github.com/thieu1995/IntelELM)             | ![IntelELM](https://static.pepy.tech/badge/IntelELM)             | [pfevaluator](https://github.com/thieu1995/pfevaluator) | ![pfevaluator](https://static.pepy.tech/badge/pfevaluator) |
+| [MetaPerceptron](https://github.com/thieu1995/MetaPerceptron) | ![MetaPerceptron](https://static.pepy.tech/badge/MetaPerceptron) | [mafese](https://github.com/thieu1995/mafese)           | ![mafese](https://static.pepy.tech/badge/mafese)           |
+| [deforce](https://github.com/thieu1995/deforce)               | ![deforce](https://static.pepy.tech/badge/deforce)               | [ENOPPY](https://github.com/thieu1995/enoppy)           | ![enoppy](https://static.pepy.tech/badge/enoppy)           |
+| [reflame](https://github.com/thieu1995/reflame)               | ![reflame](https://static.pepy.tech/badge/reflame)               | [MetaSklearn](https://github.com/thieu1995/MetaSklearn) | ![MetaSklearn](https://static.pepy.tech/badge/MetaSklearn) |
+| [GrafoRVFL](https://github.com/thieu1995/GrafoRVFL)           | ![GrafoRVFL](https://static.pepy.tech/badge/GrafoRVFL)           | [MetaMoo](https://github.com/thieu1995/MetaMoo)         | ![metamoo](https://static.pepy.tech/badge/metamoo)         |
+| [EvoRBF](https://github.com/thieu1995/EvoRBF)                 | ![EvoRBF](https://static.pepy.tech/badge/EvoRBF)                 |                             |                               |
+| [X-ANFIS](https://github.com/thieu1995/X-ANFIS)               | ![xanfis](https://static.pepy.tech/badge/xanfis)                 |                             |                               |
+| [ProbNet](https://github.com/thieu1995/ProbNet)               | ![probnet](https://static.pepy.tech/badge/probnet)               |                             |                               |
+| [UniLVQ](https://github.com/thieu1995/UniLVQ)                 | ![UniLVQ](https://static.pepy.tech/badge/UniLVQ)                 |                             |                               |
+| [PyLWL](https://github.com/thieu1995/PyLWL)                   | ![PyLWL](https://static.pepy.tech/badge/PyLWL)                   |                             |                               |
+| [WaveletML](https://github.com/thieu1995/WaveletML)           | ![WaveletML](https://static.pepy.tech/badge/WaveletML)           |                             |                               |
+| [IMAINET](https://github.com/thieu1995/IMAINET)               | ![IMAINET](https://static.pepy.tech/badge/IMAINET)               |                             |                               |
+| [MetaKan](https://github.com/thieu1995/MetaKan)               | ![MetaKan](https://static.pepy.tech/badge/MetaKan)               |                             |                               |
 
 
+
+| **ML - Library** | **Downloads** |   | **Optimization - Library** | **Downloads** |
+|------------------|---------------|---|-----------------------------|----------------|
+| [PerMetrics](https://github.com/thieu1995/permetrics)         | ![PerMetrics](https://static.pepy.tech/badge/permetrics)         |   | [Mealpy](https://github.com/thieu1995/mealpy)           | ![mealpy](https://static.pepy.tech/badge/mealpy)           |
+| [MetaCluster](https://github.com/thieu1995/MetaCluster)       | ![MetaCluster](https://static.pepy.tech/badge/MetaCluster)       |   | [Opfunu](https://github.com/thieu1995/opfunu)           | ![opfunu](https://static.pepy.tech/badge/opfunu)           |
+| [IntelELM](https://github.com/thieu1995/IntelELM)             | ![IntelELM](https://static.pepy.tech/badge/IntelELM)             |   | [pfevaluator](https://github.com/thieu1995/pfevaluator) | ![pfevaluator](https://static.pepy.tech/badge/pfevaluator) |
+| [MetaPerceptron](https://github.com/thieu1995/MetaPerceptron) | ![MetaPerceptron](https://static.pepy.tech/badge/MetaPerceptron) |   | [mafese](https://github.com/thieu1995/mafese)           | ![mafese](https://static.pepy.tech/badge/mafese)           |
+| [deforce](https://github.com/thieu1995/deforce)               | ![deforce](https://static.pepy.tech/badge/deforce)               |   | [ENOPPY](https://github.com/thieu1995/enoppy)           | ![enoppy](https://static.pepy.tech/badge/enoppy)           |
+| [reflame](https://github.com/thieu1995/reflame)               | ![reflame](https://static.pepy.tech/badge/reflame)               |   | [MetaSklearn](https://github.com/thieu1995/MetaSklearn) | ![MetaSklearn](https://static.pepy.tech/badge/MetaSklearn) |
+| [GrafoRVFL](https://github.com/thieu1995/GrafoRVFL)           | ![GrafoRVFL](https://static.pepy.tech/badge/GrafoRVFL)           |   | [MetaMoo](https://github.com/thieu1995/MetaMoo)         | ![metamoo](https://static.pepy.tech/badge/metamoo)         |
+| [EvoRBF](https://github.com/thieu1995/EvoRBF)                 | ![EvoRBF](https://static.pepy.tech/badge/EvoRBF)                 |   |                           |                             |
+| [X-ANFIS](https://github.com/thieu1995/X-ANFIS)               | ![xanfis](https://static.pepy.tech/badge/xanfis)                 |   |                           |                             |
+| [ProbNet](https://github.com/thieu1995/ProbNet)               | ![probnet](https://static.pepy.tech/badge/probnet)               |   |                           |                             |
+| [UniLVQ](https://github.com/thieu1995/UniLVQ)                 | ![UniLVQ](https://static.pepy.tech/badge/UniLVQ)                 |   |                           |                             |
+| [PyLWL](https://github.com/thieu1995/PyLWL)                   | ![PyLWL](https://static.pepy.tech/badge/PyLWL)                   |   |                           |                             |
+| [WaveletML](https://github.com/thieu1995/WaveletML)           | ![WaveletML](https://static.pepy.tech/badge/WaveletML)           |   |                           |                             |
+| [IMAINET](https://github.com/thieu1995/IMAINET)               | ![IMAINET](https://static.pepy.tech/badge/IMAINET)               |   |                           |                             |
+| [MetaKan](https://github.com/thieu1995/MetaKan)               | ![MetaKan](https://static.pepy.tech/badge/MetaKan)               |   |                           |                             |
 
 
 <details open> 
