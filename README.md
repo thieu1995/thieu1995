@@ -38,149 +38,129 @@ I'm also an active open-source developer. Check out some of my open-source proje
 
 
 
-## :wrench: Favorite Languages and Tools
+<details open> 
+  <summary><h2>🛠️ Favorite Languages and Tools </h2></summary>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
+  <h3>🎛️ Operating System </h3>
+
+  <p>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+  </p>
+
+  <h3>👨‍💻 Programming Languages</h3>
+
+  <p>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="#"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+<a href="#"><img alt="Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
+<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+<a href="#"><img alt="Octave" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"></a>
+  </p>
+
+  <h3>🧰 AI Frameworks and Libraries</h3>
+
+  <p>
+<a href="#"><img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23008000.svg?style=for-the-badge&logo=Matplotlib&logoColor=white"></a>
+<a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>
+<a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+<a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
+<a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>
+<a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a>
+  </p>
+
+<h3>🧰 Web Development</h3>
+
+  <p>
+      <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
+      <a href="#"><img alt="MaterializeCSS" src="https://img.shields.io/badge/MaterializeCSS-hotpink.svg?style=for-the-badge&logo=MaterializeCSS&logoColor=white"></a>
+      <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
+      <a href="#"><img alt="Angular.py" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
+      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+      <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?style=for-the-badge&logo=material-design&logoColor=white"></a>
+      <a href="#"><img alt="Hugo" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo"></a>
+      <a href="#"><img alt="Hexo" src="https://img.shields.io/badge/Hexo-black.svg?style=for-the-badge&logo=Hexo"></a>
+      <a href="#"><img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-black.svg?style=for-the-badge&logo=Jekyll"></a>
+      <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+      <a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=for-the-badge&logo=github%20actions&logoColor=white"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  </p>
 
 
-**OS Preferences:**
-<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" alt="linux"></code>
-</a>
-<a href="https://www.linux.org/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux"></code>
-</a>
+<h3>🧰 App Development</h3>
 
+  <p>
+      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+      <a href="#"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white"></a>
+      <a href="#"><img alt="JavaFX" src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"></a>
+  </p>
 
-**Programming:**
+  <h3>🗄️ Databases and Cloud Hosting</h3>
 
-**• Language:**
-<a href="https://www.python.org/" target="_blank">
-    <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code>
-</a>
-<a href="https://www.java.com" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="java"></code>
-</a>
-<a href="https://www.php.net" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="php"></code>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript"></code>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></code>
-</a>
-<a href="https://isocpp.org/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"></code>
-</a>
+  <p>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+  </p>
 
+</details>
 
-**• AI Frameworks:**
-<a href="https://numpy.org/" target="_blank">
-	<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank"><code>
-    <img height="30" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"></code></a>
-<a href="https://scikit-learn.org/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></code>
-</a>
-<a href="https://www.tensorflow.org" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code>
-</a>
-<a href="https://keras.io/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="keras"></code>
-</a>
-<a href="https://pytorch.org/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"></code></a>
-
-
-**• Web Development:**
-
-<a href="https://www.w3.org/html/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"></code>
-</a>
-<a href="https://materializecss.com/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize"></code>
-</a>
-<a href="https://sass-lang.com" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" alt="sass"></code>
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="boostrap"></code>
-</a>
-<a href="https://angular.io" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs"></code>
-</a>
-<a href="https://expressjs.com" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs"></code>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"></code>
-</a>
-<a href="hexo.io/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo"></code>
-</a>
-<a href="https://gohugo.io/" target="_blank">
-    <code><img height="30" src="https://api.iconify.design/logos-hugo.svg" alt="hugo"></code>
-</a>
-<a href="https://jekyllrb.com/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll"></code>
-</a>
-<a href="https://nodejs.org" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"></code>
-</a>
-<a href="https://spring.io/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"></code>
-</a>
-
-
-**• App Development:**
-<a href="https://developer.android.com/studio/intro?hl=vi" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" alt="java-android"></code>
-</a>
-<a href="https://ionicframework.com" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic"></code>
-</a>
-
-
-**• Storage:**
-<a href="https://git-scm.com/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"></code>
-</a>
-<a href="https://heroku.com" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"></code>
-</a>
-
-
-**• Database:**
-<a href="https://www.sqlite.org/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"></code>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></code>
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="mongodb"></code>
-</a>
 
 ---
 
-## :zap: Github Stats
+## :zap: Github Profile Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thieu1995&theme=zenburn)
+[//]: # (![]&#40;http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thieu1995&theme=zenburn&#41;)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thieu1995&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thieu1995&theme=zenburn&utcOffset=8)
+[//]: # ()
+[//]: # (![]&#40;http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thieu1995&theme=zenburn&#41;)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=thieu1995&theme=calm&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thieu1995&theme=cobalt&langs_count=8&layout=compact) 
+[//]: # (![]&#40;http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thieu1995&theme=zenburn&utcOffset=8&#41;)
+
+[//]: # ()
+[//]: # (![Github stats]&#40;https://github-readme-stats.vercel.app/api?username=thieu1995&theme=calm&show_icons=true&count_private=true&#41;)
+
+[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=thieu1995&theme=cobalt&langs_count=8&layout=compact&#41; )
+
+
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="thieu1995's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=thieu1995&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="thieu1995's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thieu1995&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="thieu1995's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=thieu1995&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
 
 
 ## :trophy: Github Awards
